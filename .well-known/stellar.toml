@@ -19,7 +19,7 @@ email="swisscustody@proton.me"
 
 [[CURRENCIES]]
 code ="QXRP"
-name ="QXRP"
+name ="QRIPPLE"
 issuer = "GAPTGYALEEZMQKTYCZGNK6ZGY74Q6SUIDIZIGR5KUE6MZKVGOHWPGTGQ"
 is_asset_anchored=false
 display_decimals = 1
