@@ -45,7 +45,7 @@ anchor_asset_type="other"
 fixed_number=1000000000
 
 [[CURRENCIES]]
-code ="Kay"
+code ="QXRP"
 name ="MAKER KAY"
 issuer = "GAPTGYALEEZMQKTYCZGNK6ZGY74Q6SUIDIZIGR5KUE6MZKVGOHWPGTGQ"
 is_asset_anchored=false
