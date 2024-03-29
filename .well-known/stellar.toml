@@ -17,19 +17,6 @@ ORG_DESCRIPTION=": POWER BUY SWEESSCUTODY"
 [[PRINCIPALS]]
 email="swisscustody@proton.me"
 
-[[CURRENCIES]]
-code ="QXRP"
-name ="QRIPPLE"
-issuer = "GAPTGYALEEZMQKTYCZGNK6ZGY74Q6SUIDIZIGR5KUE6MZKVGOHWPGTGQ"
-is_asset_anchored=false
-display_decimals = 1
-desc="APY%."
-image="https://swisscustodyx.github.io/img/XRP.png"
-conditions="There will only ever be 1 billion  tokens in existence."
-status="live"
-anchor_asset_type="other"
-fixed_number=1000000000
-
 
 [[CURRENCIES]]
 code ="SGB"
