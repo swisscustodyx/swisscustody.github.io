@@ -1,1 +1,33 @@
+# swees <SWISSCUSTODYX.github.io>
+VERSION="2.2.0"
+NETWORK_PASSPHRASE = "Public Global Stellar Network ; September 2015"
+
+ACCOUNTS=[
+"GAPTGYALEEZMQKTYCZGNK6ZGY74Q6SUIDIZIGR5KUE6MZKVGOHWPGTGQ"
+]
+
+[DOCUMENTATION]
+ORG_NAME="STELLARREWORD"
+ORG_URL="https://swisscustodyx.github.io/"
+ORG_LOGO ="https://swisscustodyx.github.io/img/crown.png"
+ORG_OFFICIAL_EMAIL="swisscutody@proton.me"
+ORG_SUPPORT_EMAIL="swisscutody@proton.me"
+ORG_DESCRIPTION=": POWER BUY SWEESSCUTODY"
+
+[[PRINCIPALS]]
+email="non"
+
+
+[[CURRENCIES]]
+code ="QXRP"
+name ="QRIPPLE"
+issuer = "GAPTGYALEEZMQKTYCZGNK6ZGY74Q6SUIDIZIGR5KUE6MZKVGOHWPGTGQ"
+is_asset_anchored=false
+display_decimals = 7
+desc="This is meme token of ."
+image="https://stellarpay.github.io/img/BTC.png"
+conditions="There will only ever be 1 billion  tokens in existence."
+status="live"
+anchor_asset_type="other"
+fixed_number=1000000000
 
