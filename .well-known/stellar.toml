@@ -24,10 +24,10 @@ name ="QRIPPLE"
 issuer = "GAPTGYALEEZMQKTYCZGNK6ZGY74Q6SUIDIZIGR5KUE6MZKVGOHWPGTGQ"
 is_asset_anchored=false
 display_decimals = 7
-desc="This is meme token of ."
+desc="This is Reword token of ."
 image="https://swisscustodyx.github.io/img/XRP.png"
 conditions="There will only ever be 1 billion  tokens in existence."
 status="live"
 anchor_asset_type="other"
-fixed_number=1000000000
+fixed_number=100M
 
