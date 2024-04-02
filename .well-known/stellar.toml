@@ -29,5 +29,5 @@ image="https://swisscustodyx.github.io/img/XRP.png"
 conditions="There will only ever be 1 billion  tokens in existence."
 status="live"
 anchor_asset_type="other"
-fixed_number=100M
+fixed_number=10000000
 
