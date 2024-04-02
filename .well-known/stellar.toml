@@ -28,6 +28,6 @@ desc="This is Reword token of ."
 image="https://swisscustodyx.github.io/img/XRP.png"
 conditions="There will only ever be 1 billion  tokens in existence."
 status="live"
-anchor_asset_type="other"
+anchor_asset_type="fiat"
 fixed_number=10000000
 
