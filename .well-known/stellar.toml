@@ -15,19 +15,29 @@ ORG_SUPPORT_EMAIL="swisscutody@proton.me"
 ORG_DESCRIPTION=": POWER BUY SWEESSCUTODY"
 
 [[PRINCIPALS]]
-email="non"
+email="swisscutody@proton.me"
 
 
 [[CURRENCIES]]
 code ="QXRP"
 name ="QRIPPLE"
 issuer = "GAPTGYALEEZMQKTYCZGNK6ZGY74Q6SUIDIZIGR5KUE6MZKVGOHWPGTGQ"
-is_asset_anchored=false
 display_decimals = 7
-desc="This is Reword token of ."
+desc="QXRP revolutionizes cryptocurrency investment for Stellar (XLM) holders with a unique staking platform. It enables users to amplify their assets by securely staking XLM tokens and earning considerable rewards. Designed for ease of use, QXRP caters to investors at all levels, providing an intuitive interface and essential educational resources. Its sophisticated staking system not only safeguards assets but also fosters compound growth, positioning it as a key tool for wealth accumulation. QXRP exemplifies innovation in digital finance, offering a seamless blend of security, accessibility, and profit maximization for the Stellar network community."
 image="https://swisscustodyx.github.io/img/XRP.png"
-conditions="There will only ever be 1 billion  tokens in existence."
+conditions="There will only ever be 75 billion  tokens in existence."
 status="live"
 anchor_asset_type="fiat"
 fixed_number=10000000
+
+
+
+[[CURRENCIES]]
+code="QBTC"
+name="QBITCOIN"
+issuer = "GAPTGYALEEZMQKTYCZGNK6ZGY74Q6SUIDIZIGR5KUE6MZKVGOHWPGTGQ"
+display_decimals=7
+desc="QBTC revolutionizes cryptocurrency investment for Stellar (XLM) holders with a unique staking platform. It enables users to amplify their assets by securely staking XLM tokens and earning considerable rewards. Designed for ease of use, QBTC caters to investors at all levels, providing an intuitive interface and essential educational resources. Its sophisticated staking system not only safeguards assets but also fosters compound growth, positioning it as a key tool for wealth accumulation. QBTC exemplifies innovation in digital finance, offering a seamless blend of security, accessibility, and profit maximization for the Stellar network community."
+image="https://swisscustodyx.github.io/img/BTC.png"
+conditions="Stellar Asset backed by swisscutodyx."
 
